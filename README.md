@@ -8,6 +8,7 @@ Production-grade Retrieval-Augmented Generation backend with:
 - Multi-Level Redis Caching
 - Guardrails against prompt injection
 - Sub-10ms warm-query latency
+- Optimized for 1M+ vectors
 
 ---
 
